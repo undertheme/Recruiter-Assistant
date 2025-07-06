@@ -15,8 +15,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/RecruitMate.git
-   cd RecruitMate
+   git clone https://github.com/undertheme/Recruiter-Assistant.git
+   cd Recruiter-Assistant
    ```
 2. Install dependencies:
    ```bash
